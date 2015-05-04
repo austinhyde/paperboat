@@ -1,0 +1,13 @@
+{
+    "name": "austinhyde/paperboat",
+    "authors": [
+        {
+            "name": "Austin Hyde",
+            "email": "austin109@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": { "PaperBoat\\": "src/" }
+    }
+}

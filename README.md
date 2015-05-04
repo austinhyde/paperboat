@@ -1,5 +1,7 @@
 # PaperBoat - Streaming JSON Output
 
+[![Build Status](https://img.shields.io/travis/austinhyde/paperboat/master.svg?style=flat)](https://travis-ci.org/austinhyde/paperboat)
+
 This is an extremely simple, and **very alpha quality** implementation of a Streaming JSON outputter.
 
 # Show me the goods

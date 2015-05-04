@@ -1,6 +1,8 @@
 # PaperBoat - Streaming JSON Output
 
 [![Build Status](https://img.shields.io/travis/austinhyde/paperboat/master.svg?style=flat)](https://travis-ci.org/austinhyde/paperboat)
+[![Latest Version](https://img.shields.io/github/release/austinhyde/paperboat.svg?style=flat)](https://github.com/austinhyde/paperboat/releases)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/austinhyde/paperboat/blob/master/LICENSE.md)
 
 This is an extremely simple, and **very alpha quality** implementation of a Streaming JSON outputter.
 

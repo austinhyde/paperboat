@@ -1,7 +1,7 @@
 <?php
-namespace PaperBoat\OutputStream;
+namespace PaperBoat;
 
-interface OutputStreamInterface
+interface OutputStream
 {
   /**
    * Writes a string to the stream

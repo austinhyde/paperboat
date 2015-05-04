@@ -202,7 +202,7 @@ class JsonStream
 
   private function getState()
   {
-    return $this->state[count($this->state) - 1];
+    return count($this->state) > 0 ? $this->state[count($this->state) - 1] : null;
   }
 
   protected function output($s, $needsDelimiter)

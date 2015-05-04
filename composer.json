@@ -1,13 +1,23 @@
 {
     "name": "austinhyde/paperboat",
+    "homepage": "https://github.com/austinhyde/paperboat",
+    "license": "MIT",
     "authors": [
         {
             "name": "Austin Hyde",
             "email": "austin109@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*"
+    },
     "autoload": {
-      "psr-4": { "PaperBoat\\": "src/" }
+        "psr-4": { "PaperBoat\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "PaperBoat\\Test\\": "tests/" }
     }
 }

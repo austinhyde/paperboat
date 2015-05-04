@@ -84,3 +84,7 @@ Most people probably don't need this.
 1. I was bored
 2. It didn't exist yet
 3. Someone might need it, someday
+
+##### Are these really frequently asked questions?
+
+No, this is a sham, just like all the other FAQs on GitHub.

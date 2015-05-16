@@ -1,6 +1,8 @@
 {
     "name": "austinhyde/paperboat",
     "homepage": "https://github.com/austinhyde/paperboat",
+    "description": "A streaming JSON emitter",
+    "keywords": ["json","streaming"],
     "license": "MIT",
     "authors": [
         {
